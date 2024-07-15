@@ -52,12 +52,14 @@ const styles = StyleSheet.create({
         fontSize: 48,
         textAlign: 'center',
         color: "white",
+        width: 253
     },
     h4: {
         fontSize: 16,
         textAlign: 'center',
         color: "rgba(252, 252, 252, 0.7)",
         marginTop: 19,
+        width: 295
     },
     btn: {
         backgroundColor: 'rgba(83, 177, 117, 1)',
